@@ -19,6 +19,6 @@ Motivated Artificial Intelligence & Data Science student with a passion for unco
 [![](https://visitcount.itsvg.in/api?id=NIKITA-1805&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-Please check my resume [![here](https://drive.google.com/file/d/1s2etwNORU3LMW-Acqw-il3KMvuaFf7_Q/view?usp=sharing) 
+Please check my resume [here](https://drive.google.com/file/d/1s2etwNORU3LMW-Acqw-il3KMvuaFf7_Q/view?usp=sharing) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
