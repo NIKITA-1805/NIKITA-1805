@@ -6,7 +6,7 @@ Currently focused on building real-world projects in sentiment analysis, machine
 I’m driven by curiosity, creativity, and a love for solving problems using data.  
 Actively seeking opportunities to contribute to innovative, data-driven teams.
 
-📄 [Check out my Resume](https://drive.google.com/file/d/1s2etwNORU3LMW-Acqw-il3KMvuaFf7_Q/view?usp=sharing)
+📄 [Check out my Resume](https://flowcv.com/resume/9pllgd6dl4qo)
 
 ---
 
