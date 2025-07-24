@@ -6,7 +6,7 @@ Currently focused on building real-world projects in sentiment analysis, machine
 I’m driven by curiosity, creativity, and a love for solving problems using data.  
 Actively seeking opportunities to contribute to innovative, data-driven teams.
 
-📄 [Check out my Resume](https://flowcv.com/resume/9pllgd6dl4qo)
+📄 [my Resume](https://flowcv.com/resume/9pllgd6dl4qo)
 
 ---
 
@@ -36,8 +36,7 @@ Utilized joins, aggregations, and scenario modeling in **MySQL** to recommend co
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-jadhao-40450b286/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikkij1805@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-jadhao-40450b286/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikkij1805@gmail.com)
 
 ---
 
