@@ -62,3 +62,8 @@ Utilized joins, aggregations, and scenario modeling in **MySQL** to recommend co
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=NIKITA-1805&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKITA-1805&theme=dark&show_icons=true&count_private=true)
+
