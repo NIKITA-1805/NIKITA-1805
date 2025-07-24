@@ -54,8 +54,8 @@ Utilized joins, aggregations, and scenario modeling in **MySQL** to recommend co
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKITA-1805&theme=dark&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=NIKITA-1805&theme=dark&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKITA-1805&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
