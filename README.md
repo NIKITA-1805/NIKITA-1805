@@ -52,9 +52,11 @@ Utilized joins, aggregations, and scenario modeling in **MySQL** to recommend co
 ---
 
 ## 📊 GitHub Stats
-
+<p align="center">
 ![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIKITA-1805&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKITA-1805&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ---
 
